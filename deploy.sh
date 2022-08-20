@@ -1,3 +1,3 @@
 deploy java application
 deploy pyton apps
-deploy in the dev env
+deploy in the dev environment
